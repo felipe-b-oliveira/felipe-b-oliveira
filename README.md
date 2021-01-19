@@ -14,3 +14,27 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!--
+<img src="https://raw.githubusercontent.com/felipe-b-oliveira/felipe-b-oliveira/master/image/Laptop%20Icon-02.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Notebook">
+-->
+
+<p align="left">
+	Olá, me chamo Felipe, tenho 27 anos e sou Bacharel em Sistemas de Informação pela Universidade Unigranrio. Aqui você pode conhecer um pouco do meu trabalho e estudos.
+</p>
+
+<p align="left">
+  <strong>FullStack Developer</strong>
+</p>
+
+<p align="left">
+📫  Você pode entrar em contato comigo pelos meios abaixo.
+</p>
+
+<p align="left">
+<a href="mailto:felipe.boliveira@outlook.com" alt="Gmail">
+<img src="https://img.shields.io/badge/-felipe.boliveira@outlook.com-0078D4?style=flat-square&labelColor=0078D4&logo=gmail&logoColor=white&link=felipe.boliveira@outlook.com"/></a>
+  
+<a href="https://www.linkedin.com/in/felipe-oliveira-417376100/" alt="Linkedin">
+<img src="https://img.shields.io/badge/-Felipe%20Oliveira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipe-oliveira-417376100/" /></a>
+ </p>
