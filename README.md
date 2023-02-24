@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <img src="https://raw.githubusercontent.com/felipe-b-oliveira/felipe-b-oliveira/master/image/Laptop%20Icon-03.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Notebook">
 
 <p align="left">
-	Olá, me chamo Felipe, tenho 28 anos e sou Bacharel em Sistemas de Informação pela Universidade Unigranrio. Aqui você pode conhecer um pouco do meu trabalho e estudos.
+	Here you can know more about my work and studies.
 </p>
 
 <p align="left">
@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 </p>
 
 <p align="left">
-📫  Você pode entrar em contato comigo pelos meios abaixo.
+📫  You can contact me through the means below.
 </p>
 
 <p align="left">
