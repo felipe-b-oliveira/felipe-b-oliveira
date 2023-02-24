@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <img src="https://raw.githubusercontent.com/felipe-b-oliveira/felipe-b-oliveira/master/image/Laptop%20Icon-03.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Notebook">
 
 <p align="left">
-	Here you can know more about my work and studies.
+	Hi, i'm Felipe Oliveira, i'm a software developer and i live in Rio de Janeiro, Brazil. I like to know how things works and help people. Here you can know more about my work and studies.
 </p>
 
 <p align="left">
