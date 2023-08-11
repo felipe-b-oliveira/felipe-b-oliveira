@@ -25,7 +25,7 @@ Here are some ideas to get you started:
   </a>-->
 
   <p align="left">
-    I'm Felipe, i'm a web engineer. I'm currently based on Rio de Janeiro, and working on some personal projects. I'm a curious design and technology lover, i have three years of experience working with web technologies like NodeJS, React and a little of .NET
+    I'm Felipe, i'm a full stack developer. I'm currently based on Rio de Janeiro, and working on some personal projects. I'm a curious, design and technology lover, i have three years of experience working with web development having worked on projects with Javascript, Typescript and C# with React, NodeJS and .NET environments.
   </p>
 </p>
 
