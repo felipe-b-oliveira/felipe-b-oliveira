@@ -50,14 +50,6 @@ Here are some ideas to get you started:
 <h2 align="left">Stats</h2>
 
 <p align="center">
-  <img
-    align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipe-b-oliveira&layout=compact&title_color=007ec6&icon_color=007ec6&text_color=03001c&bg_color=00000000"
-  />
-
-  <img
-    align="center"
-    height="165"
-    src="https://github-readme-stats.vercel.app/api?username=felipe-b-oliveira&show_icons=true&title_color=007ec6&icon_color=007ec6&text_color=03001c&bg_color=00000000"
-  />
+<img src="./profile/stats.svg" />
+<img src="./profile/top-langs.svg" />
 </p>
