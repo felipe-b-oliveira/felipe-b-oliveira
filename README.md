@@ -50,6 +50,14 @@ Here are some ideas to get you started:
 <h2 align="left">Stats</h2>
 
 <p align="center">
-<img src="./profile/stats.svg" />
-<img src="./profile/top-langs.svg" />
+  <img
+    align="center"
+    src="./profile/top-langs.svg"
+  />
+
+  <img
+    align="center"
+    height="165"
+    src="./profile/stats.svg"
+  />
 </p>
