@@ -54,7 +54,6 @@ Here are some ideas to get you started:
     align="center"
     src="./profile/top-langs.svg"
   />
-
   <img
     align="center"
     height="165"
